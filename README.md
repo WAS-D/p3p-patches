@@ -22,7 +22,7 @@
 2. Make sure to add `CHEAT ENABLE = 1` to `ms0:/seplugins/cwcheat/cwcheat.ini` so that patches may be applied on boot.
 3. Enable the patches you'd like to use via the cheats menu.
 
-# Mod Support Patch does not work on official hardware. 
+# Mod Support Patch does not work on official hardware. Please use the xdelta method instead for modding. 
 
 
 ### Patching `EBOOT.BIN`
